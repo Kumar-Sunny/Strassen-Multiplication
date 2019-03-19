@@ -1,9 +1,7 @@
 #Program Name: Strassen.py
 #Program Desc: To Find Product of Matrices using Strassen Method
 #Author: Sunny Kumar
-#Reg=201700282
-#Section: B
-#Roll NO: 13
+
 #
 #Implemented for size=2^n(i.e:1,2,4,8,16,32,...)
 #
